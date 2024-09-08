@@ -73,5 +73,6 @@ body{
 .link:hover{
     box-shadow: 3px 3px 8px #000000a6;
     transition: box-shadow 0.3s ease;
+    border: 1px solid #5a462cb6;
 }
 
